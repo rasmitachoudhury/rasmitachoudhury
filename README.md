@@ -1,4 +1,4 @@
-👋 Hi, I’m a passionate QA Engineer & Lead with 12+ years of experience in manual and automation testing, including 3+ years on-site in London (UK) delivering high-quality solutions in the BFSI domain for major banks like Lloyds and Metro UK.
+👋 Hi, I’m a passionate QA Engineer & Lead with 12+ years of experience in manual and automation testing, including 3+ years on-site in London (UK) delivering high-quality solutions in the BFSI domain for major banks like Lloyds Banking Group and Metro Bank UK.
 
 🔧 I specialize in mobile automation for Android & iOS, with hands-on expertise in:
 
